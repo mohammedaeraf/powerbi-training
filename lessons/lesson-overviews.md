@@ -1,7 +1,3 @@
-Understood! Here are **all 20 Power BI lessons** in **one single chat reply**, fully structured in clean Markdown.
-You can copy/paste this entire content into any markdown editor or export as `.md`.
-
----
 
 # 🎓 **POWER BI COMPLETE COURSE – ALL 20 SESSIONS (MARKDOWN FORMAT)**
 
